@@ -24,5 +24,4 @@ The data ADT are in the model file whereas acceptance tests are in the test fold
     as the declaration of Manager can inherit/implement it.
 
 3.  Every operation (Ops) generates a new instance of the Manager class. Each object is a real world entity, and contains
-    state and behavior. This, in turn, allows to easily store the state of the Manager (e.g. in a list) and
-    1) undo/do actions, and 2) recover in case of failure.
+    state and behavior. This, in turn, allows to easily store the state of the Manager (e.g. in a list) and 1) undo/do actions, and 2) recover in case of failure.
