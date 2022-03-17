@@ -1,0 +1,15 @@
+*.class
+*.log
+.ensime
+.ensime_cache
+project/target/
+project/project/
+.idea
+**/target
+.DS_STORE
+.dev
+*.iml
+**/report
+doc/result
+result
+.bsp/
